@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title>ВР-22</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
     <meta property="og:title" content="ВР-22" />
     <meta property="og:description" content="Навигатор группы ВР-22" />
@@ -15,5 +14,8 @@
 # Мой заголовок
 
 Это текст, который будет стилизован с помощью подключенного CSS.
+
+|ТЕкст | Текст 2 |
+|Какой-то текст еще | Другой текст|
 
 <button>Текст</button>
