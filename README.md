@@ -1,5 +1,6 @@
 <html>
 <head>
+    <title>ВР-22</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
     <meta property="og:title" content="ВР-22" />
     <meta property="og:description" content="Навигатор группы ВР-22" />
